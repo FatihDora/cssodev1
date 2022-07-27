@@ -1,0 +1,64 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #576f72;
+  margin: auto;
+}
+
+.nav {
+  text-align: center;
+  font-weight: 900;
+  padding: 30px;
+  color: #444444;
+  text-shadow: 1px 2px 1px #576f72, 3px 2px 1px #7d9d9c, 2px 3px 1px #576f72,
+    4px 3px 1px #7d9d9c, 3px 4px 1px #576f72, 5px 4px 1px #7d9d9c,
+    4px 5px 1px #576f72, 6px 5px 1px #7d9d9c, 5px 6px 1px #576f72,
+    7px 6px 1px #7d9d9c;
+  color: #444444;
+  background: #7d9d9c;
+  margin: auto;
+}
+
+h1 h2 h3 h4 h5 h6 {
+  margin: auto;
+}
+
+header {
+  text-align: center;
+}
+
+ul  {
+
+  list-style: none ;
+  padding-left: 0px;
+  width: 100%;
+  margin: auto;
+
+
+}
+ul li {
+  font-size: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 50px;
+  line-height: 50px;
+}
+
+ul li a {
+  text-decoration: none;
+  
+}
+
+
+.product-details {
+  color: #e4dccf;
+}
+
+.span {
+
+  margin: auto;
+  padding-inline: 150px;
+}
+
+.paragraf {
+  text-align: center;
+}
